@@ -32,9 +32,10 @@ E outros por autoditada: <br>
 
 ## 
   
-<div>
-  <image src="https://media3.giphy.com/media/VDMadluM51Yh0lSmn9/giphy.gif?cid=ecf05e474lybdd2pom7hdmqfeldrsxfrp2yr3gbckfqlmdj1&ep=v1_stickers_search&rid=giphy.gif&ct=s" style="display: flex; justify-content: center;" width="150" height="150">
- <h4> Agr tô indo nessa, tmj!<h4> 
-</div>
+<p align="center">
+  <img src="https://media3.giphy.com/media/VDMadluM51Yh0lSmn9/giphy.gif?cid=ecf05e474lybdd2pom7hdmqfeldrsxfrp2yr3gbckfqlmdj1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="175" height="175" />
+  <br>Foi um prazer, até um outro dia 🫡☕
+</p>
+
 
 
