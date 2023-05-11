@@ -1,11 +1,26 @@
-# E aí, meu nome é Richard Rodrigues!
-
-<image src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140"> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rixchaard&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <image src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">
-
-                  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rcxdz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-rodrigues-84699a220/) 
+<div align="center">
+  <h2> E aí, meu nome é Richard Rodrigues! </h2>
+</div>
 
 
-# Tô manjado nessas linguagens aí:
+
+<div id="dados" align="center">
+        <img src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">    
+    <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixchaard&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+      <img src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <a href="https://www.instagram.com/rcxdz_/"><img width="127px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+        <a href="https://bit.ly/3MjDtMX"><img width="118px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>       
+  </div>
+</div>
+           
+
+
+<div align="center">
+  <h2> ♨️ Conhecimentos: </h2>
+</div>
+
+
 Front-end: <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
