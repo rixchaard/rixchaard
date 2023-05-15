@@ -52,7 +52,4 @@ E outros por autoditada: <br>
   <br>Foi um prazer, até um outro dia 🫡☕
 </p>
 
-// Deixar lembrado aqui que quero centralizar essa joça toda.
-
-
 
