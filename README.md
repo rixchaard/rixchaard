@@ -9,7 +9,7 @@
     <img width="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rixchaard&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
       <img src="https://media2.giphy.com/media/sXZ90Ki0iJmILNt2ib/giphy.gif?cid=ecf05e47l6d4oryl33cbutltomu0tegdc4pxe7nr3qtajrxn&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="140">
     <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://www.instagram.com/rcxdz_/"><img width="127px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+        <a href="https://www.instagram.com/rixchaardz/"><img width="127px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
         <a href="https://bit.ly/3MjDtMX"><img width="118px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>       
   </div>
 </div>
