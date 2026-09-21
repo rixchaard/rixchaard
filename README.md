@@ -25,13 +25,13 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 🧡 Sobre mim
 
-Oi! Sou o Richard, designer UX/UI. Meu trabalho passa por pesquisa, fluxo, interface e design system, e o que mais curto é pegar um processo complicado e deixar ele simples pra quem vai usar.
+Opaa, beleza? Sou o Richard, designer UX/UI. Meu trabalho passa por pesquisa, fluxo, interface e design system, e o que mais curto é pegar um processo complicado e deixar ele simples pra quem vai usar.
 
-Já desenhei e-commerce B2C, redesign de marca consolidada e app pra produtor rural. Boa parte do que fiz em B2B e corporativo está sob NDA, então no portfólio isso aparece como mockup e abstração conceitual.
+Sem nenhuma equipe, já desenhei e-commerces B2C, redesign de marca consolidada e app pra produtor rural. Boa parte do que fiz em B2B e corporativo está sob NDA, então no portfólio isso aparece como mockup e abstração conceitual.
 
 - 🎯 **Foco:** Product Design, UX Research, Design System e Prototipação
 - 🛒 **Onde já atuei:** B2C, B2B, E-commerce e Marketplace
-- 💬 **Status:** aberto a novos trabalhos. Bora conversar?
+- 💬 **Status:** aberto a novos trabalhos. Bora trocar um papo?
 
 <!-- ===================== FERRAMENTAS ===================== -->
 ## 🛠️ Ferramentas
@@ -103,7 +103,7 @@ Já desenhei e-commerce B2C, redesign de marca consolidada e app pra produtor ru
   <img src="https://streak-stats.demolab.com?user=rixchaard&locale=pt_BR&background=151515&ring=F85E08&fire=F85E08&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85E08&sideLabels=FFFFFF&dates=AAAAAA&stroke=333333&hide_border=true" />
 </p>
 
-<!-- ===================== RODAPÉ ===================== -->
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://media3.giphy.com/media/VDMadluM51Yh0lSmn9/giphy.gif?cid=ecf05e474lybdd2pom7hdmqfeldrsxfrp2yr3gbckfqlmdj1&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="175" height="175" />
   <br>Foi um prazer, até um outro dia 🫡☕
