@@ -27,7 +27,7 @@
 
 Opaa, beleza? Sou o Richard, designer UX/UI. Meu trabalho passa por pesquisa, fluxo, interface e design system, e o que mais curto é pegar um processo complicado e deixar ele simples pra quem vai usar.
 
-Sem nenhuma equipe, já desenhei e-commerces B2C, redesign de marca consolidada e app pra produtor rural. Boa parte do que fiz em B2B e corporativo está sob NDA, então no portfólio isso aparece como mockup e abstração conceitual.
+Como o **único designer** da equipe, já desenhei e-commerces B2C, redesign de marca consolidada e app pra produtor rural. Boa parte do que fiz em B2B e corporativo está sob NDA, então no portfólio isso aparece como mockup e abstração conceitual.
 
 - 🎯 **Foco:** Product Design, UX Research, Design System e Prototipação
 - 🛒 **Onde já atuei:** B2C, B2B, E-commerce e Marketplace
